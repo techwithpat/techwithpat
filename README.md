@@ -10,4 +10,4 @@ I'm a fullstack developper working mainly in .NET ecosystem.
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## Connect with me
-* LinkedIn : https://www.linkedin.com/in/patrick-tshibanda-431017135/
+* ![LinkedIn](https://www.linkedin.com/in/patrick-tshibanda-431017135)
