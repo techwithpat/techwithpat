@@ -1,10 +1,10 @@
 ### Hi there, I'm Patrick aka TechWithPat 👋
 
-I'm a fullstack developper from :be: Belgium.
+I'm a fullstack developper from Belgium.
 
 🔭 I’m currently working on a secret project for consulting
 🌱 I’m currently learning ...
-⚡ Fun fact: ...
+⚡ Fun fact: .c# .NET
 
 ## My Toolbox
 
