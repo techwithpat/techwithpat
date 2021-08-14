@@ -1,4 +1,4 @@
-### Hi there, I'm Patrick aka TechWithPat 👋
+### Hi there, I'm Patrick 👋
 
 I'm a fullstack developper working mainly in .NET ecosystem.
 
@@ -9,5 +9,7 @@ I'm a fullstack developper working mainly in .NET ecosystem.
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-## Connect with me
+## Where to find me
+* [Youtube](https://www.youtube.com/channel/UCWIgdMSJn8X9IwylP-7Ad8w)
 * [LinkedIn](https://www.linkedin.com/in/patrick-tshibanda-431017135)
+* [Email](mailto:patrick@makanda.io)
