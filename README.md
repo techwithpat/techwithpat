@@ -1,8 +1,7 @@
 ### Hi there, I'm Patrick aka TechWithPat 👋
 
-I'm a fullstack developper from Belgium.
+I'm a fullstack developper working mainly in .NET ecosystem.
 
-## My Toolbox
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
@@ -11,5 +10,4 @@ I'm a fullstack developper from Belgium.
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## Connect with me
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+* LinkedIn : https://www.linkedin.com/in/patrick-tshibanda-431017135/
