@@ -12,4 +12,4 @@ I'm a full-stack developper working mainly in the .NET ecosystem.
 ## Where to find me
 * [Youtube](https://www.youtube.com/channel/UCWIgdMSJn8X9IwylP-7Ad8w)
 * [LinkedIn](https://www.linkedin.com/in/patrick-tshibanda-431017135)
-* [Email](mailto:patrick@makanda.io)
+* [Email](mailto:techwithpat@gmail.com)
